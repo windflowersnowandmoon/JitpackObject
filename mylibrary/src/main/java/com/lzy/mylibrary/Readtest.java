@@ -9,7 +9,7 @@ import android.util.Log;
  * 日   期 :2020/6/11
  * 描   述 :个人信息
  */
-class Readtest {
+public class Readtest {
 
     public void ts(){
         Log.i("ts","---->ts");
